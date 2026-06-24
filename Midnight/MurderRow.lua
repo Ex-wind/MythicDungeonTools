@@ -4,7 +4,7 @@ local L = MDT.L
 local dungeonIndex = 160
 MDT.dungeonList[dungeonIndex] = L["MurderRow"]
 MDT.mapInfo[dungeonIndex] = {
-  teleportId = 1289775,
+  teleportId = 1286809,
   shortName = L["MurderRowShortName"],
   englishName = "Murder Row",
   mapID = 587
@@ -23,7 +23,7 @@ MDT.dungeonSubLevels[dungeonIndex] = {
   [1] = L["MurderRow"],
 }
 
-MDT.dungeonTotalCount[dungeonIndex] = { normal = 470 }
+MDT.dungeonTotalCount[dungeonIndex] = { normal = 756 }
 
 MDT.mapPOIs[dungeonIndex] = {};
 

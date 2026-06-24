@@ -5,6 +5,7 @@ local addonName, MDT = ...
 local L = MDT.L
 L = L or {}
 -- MDT
+
 L["Maps"] = "Maps"
 L["Macros"] = "Macros"
 L["Marks"] = "Marks"
@@ -67,6 +68,10 @@ L["exampleItemNameNoSpellId"] = "亡语者侍僧"
 L["exampleItemDescriptionNoSpellId"] = "A sample item with no associated spell ID.%s%sNew lines supported"
 L["exampleItemDescriptionWithSpellId"] = "A sample item that references a spell ID."
 -- L["CNNAME"] = ""
+
+L["Tazrah"] = "塔兹拉尔"
+L["Atroxus"] = "阿特洛苏斯"
+L["Charonus"] = "煞戎努斯"
 L["Vicious Ravager"] = "恶毒掠食者"
 L["Ritual Chieftain"] = "Ritual Chieftain"
 L["Bloodletter"] = "放血者"

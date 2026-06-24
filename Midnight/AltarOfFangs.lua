@@ -4,7 +4,7 @@ local L = MDT.L
 local dungeonIndex = 164
 MDT.dungeonList[dungeonIndex] = L["AltarOfFangs"]
 MDT.mapInfo[dungeonIndex] = {
-  teleportId = 1289772,
+  teleportId = 1286812,
   shortName = L["AltarOfFangsShortName"],
   englishName = "Altar of Fangs",
   mapID = 588
@@ -24,7 +24,7 @@ MDT.dungeonSubLevels[dungeonIndex] = {
   [1] = L["AltarOfFangs"],
 }
 
-MDT.dungeonTotalCount[dungeonIndex] = { normal = 0 }
+MDT.dungeonTotalCount[dungeonIndex] = { normal = 836 }
 
 MDT.mapPOIs[dungeonIndex] = {};
 

@@ -4,7 +4,7 @@ local L = MDT.L
 local dungeonIndex = 17
 MDT.dungeonList[dungeonIndex] = L["Kings' Rest"]
 MDT.mapInfo[dungeonIndex] = {
-  teleportId = 1289778,
+  teleportId = 1286831,
   iconId = 2011123,
   shortName = L["kingsRestShortName"],
   englishName = "King's Rest",
@@ -16,7 +16,7 @@ for _, zone in ipairs(zones) do
   MDT.zoneIdToDungeonIdx[zone] = dungeonIndex
 end
 
-MDT.dungeonTotalCount[dungeonIndex] = { normal = 246 }
+MDT.dungeonTotalCount[dungeonIndex] = { normal = 699 }
 
 MDT.dungeonMaps[dungeonIndex] = {
   [0] = "",

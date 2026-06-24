@@ -4,7 +4,7 @@ local L = MDT.L
 local dungeonIndex = 161
 MDT.dungeonList[dungeonIndex] = L["DenOfNalorakk"]
 MDT.mapInfo[dungeonIndex] = {
-  teleportId = 1289773,
+  teleportId = 1286807,
   shortName = L["DenOfNalorakkShortName"],
   englishName = "Den of Nalorakk",
   mapID = 586
@@ -24,7 +24,7 @@ MDT.dungeonSubLevels[dungeonIndex] = {
   [1] = L["DenOfNalorakk"],
 }
 
-MDT.dungeonTotalCount[dungeonIndex] = { normal = 0 }
+MDT.dungeonTotalCount[dungeonIndex] = { normal = 758 }
 
 MDT.mapPOIs[dungeonIndex] = {};
 

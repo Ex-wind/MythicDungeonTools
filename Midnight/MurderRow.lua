@@ -29,13 +29,13 @@ MDT.mapPOIs[dungeonIndex] = {};
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Felwyrm",
     ["id"] = 236085,
     ["count"] = 1,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 139997,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -46,12 +46,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [2] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Row Hooligan",
     ["id"] = 236073,
     ["count"] = 3,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 136939,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -63,12 +63,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [3] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Felonious Mage",
     ["id"] = 236084,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 129784,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -80,12 +80,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [4] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Bribed Guard",
     ["id"] = 236071,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 126157,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -97,12 +97,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [5] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Bribed Captain",
     ["id"] = 252529,
     ["count"] = 35,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 137450,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -114,13 +114,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [6] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Seductive Sayaad",
     ["id"] = 236082,
     ["count"] = 6,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 77400,
+    ["creatureType"] = "Demon",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -131,12 +131,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [7] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Massive Felwyrm",
     ["id"] = 236902,
     ["count"] = 12,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 139996,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -148,12 +148,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [8] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Street Sneak",
     ["id"] = 236091,
     ["count"] = 3,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 137441,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -165,12 +165,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [9] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Zaen's Viper",
     ["id"] = 236899,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 137801,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -182,12 +182,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [10] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Warehouse Worker",
     ["id"] = 236893,
     ["count"] = 2,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 136834,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -199,12 +199,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [11] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Keen Taskmaster",
     ["id"] = 236897,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 136657,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -216,13 +216,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [12] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Unleashed Imp",
     ["id"] = 234849,
     ["count"] = 2,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 65901,
+    ["creatureType"] = "Demon",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -233,13 +233,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [13] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Trained Felhunter",
     ["id"] = 235261,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 1913,
+    ["creatureType"] = "Demon",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -250,12 +250,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [14] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Fel Invoker",
     ["id"] = 235268,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 124770,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -267,13 +267,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [15] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Wrathguard Flayer",
     ["id"] = 235267,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 63968,
+    ["creatureType"] = "Demon",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -284,12 +284,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [16] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Corrupted Warlock",
     ["id"] = 235265,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 124763,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -301,13 +301,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [17] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Demon Fly",
     ["id"] = 235257,
     ["count"] = 1,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 77024,
+    ["creatureType"] = "Demon",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -318,13 +318,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [18] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Shivan Punisher",
     ["id"] = 235465,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 76712,
+    ["creatureType"] = "Demon",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -335,12 +335,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [19] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Felmaster Lucsei",
     ["id"] = 236905,
     ["count"] = 30,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 138787,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -352,13 +352,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [20] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Defiled Golem",
     ["id"] = 235322,
     ["count"] = 35,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 137564,
+    ["creatureType"] = "Mechanical",
     ["level"] = 90,
     ["clones"] = {
       [1] = {

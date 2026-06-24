@@ -30,12 +30,12 @@ MDT.mapPOIs[dungeonIndex] = {};
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Lost Sethrak",
     ["id"] = 243996,
     ["count"] = 4,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 140045,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -47,12 +47,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [2] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Feral Saberon",
     ["id"] = 243988,
     ["count"] = 4,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 140041,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -64,13 +64,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [3] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Sycophantic Tarasek",
     ["id"] = 243983,
     ["count"] = 4,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 140037,
+    ["creatureType"] = "Dragonkin",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -81,12 +81,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [4] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Longtooth Tuskarr",
     ["id"] = 243985,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 140034,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -98,12 +98,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [5] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Dominated Brawler",
     ["id"] = 238883,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 130200,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -115,12 +115,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [6] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Enthralled Shaman",
     ["id"] = 241496,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 130201,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -132,12 +132,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [7] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Voidtouched Magi",
     ["id"] = 252072,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 137330,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -149,12 +149,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [8] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Brutal Overseer",
     ["id"] = 252053,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 137329,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -166,12 +166,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [9] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Aegyra the Unyielding",
     ["id"] = 267545,
     ["count"] = 40,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 74439,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -183,12 +183,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [10] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Raj'kess the Spellstorm",
     ["id"] = 267546,
     ["count"] = 40,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 143575,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -200,13 +200,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [11] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Chitigoth",
     ["id"] = 244260,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 140256,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -217,13 +217,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [12] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Raging Raptor",
     ["id"] = 249608,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 141194,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -234,13 +234,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [13] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Protective Turtle",
     ["id"] = 249603,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 140295,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -251,13 +251,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [14] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Brutok",
     ["id"] = 244309,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 140264,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -268,13 +268,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [15] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Abducted Drakonid",
     ["id"] = 249461,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 140299,
+    ["creatureType"] = "Dragonkin",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -285,13 +285,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [16] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Angry Krolusk",
     ["id"] = 249590,
     ["count"] = 15,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 141195,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -302,13 +302,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [17] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Savage Shredclaw",
     ["id"] = 243835,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 141810,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -319,13 +319,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [18] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Kilivore Screamer",
     ["id"] = 243766,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 141196,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -336,13 +336,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [19] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Agitated Voidscythe",
     ["id"] = 263228,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 138723,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -353,13 +353,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [20] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Blistercreep",
     ["id"] = 243736,
     ["count"] = 1,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 141204,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -370,13 +370,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [21] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Watchful Harrower",
     ["id"] = 245950,
     ["count"] = 65,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 141286,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -387,12 +387,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [22] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Devouring Brutalizer",
     ["id"] = 268184,
     ["count"] = 30,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 142611,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -404,13 +404,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [23] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Scavenging Siphoid",
     ["id"] = 252508,
     ["count"] = 1,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 141207,
+    ["creatureType"] = "Aberration",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -421,13 +421,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [24] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Voidminder",
     ["id"] = 244708,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 139865,
+    ["creatureType"] = "Aberration",
     ["level"] = 90,
     ["clones"] = {
       [1] = {

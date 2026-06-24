@@ -67,12 +67,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [2] = {
-    ["name"] = "Flashfrost Earthshaper",
+    ["name"] = "Deepstone Earthshaper",
     ["id"] = 187969,
     ["count"] = 10,
     ["health"] = 6713011,
     ["scale"] = 1,
-    ["displayId"] = 107409,
+    ["displayId"] = 102955,
     ["creatureType"] = "Humanoid",
     ["level"] = 70,
     ["characteristics"] = {
@@ -158,7 +158,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [3] = {
-    ["name"] = "Primal Terrasentry",
+    ["name"] = "Earthbound Guardian",
     ["id"] = 188011,
     ["count"] = 10,
     ["health"] = 6713011,
@@ -356,7 +356,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["count"] = 1,
     ["health"] = 2315989,
     ["scale"] = 1,
-    ["displayId"] = 102140,
+    ["displayId"] = 110633,
     ["creatureType"] = "Dragonkin",
     ["level"] = 70,
     ["characteristics"] = {
@@ -1191,7 +1191,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [12] = {
-    ["name"] = "Primalist Flamedancer",
+    ["name"] = "Ashseer Flamelasher",
     ["id"] = 190206,
     ["count"] = 10,
     ["health"] = 7384312,
@@ -1278,7 +1278,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [13] = {
-    ["name"] = "Primalist Shockcaster",
+    ["name"] = "Ruinous Stormbringer",
     ["id"] = 195119,
     ["count"] = 14,
     ["health"] = 10740817,
@@ -1417,7 +1417,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["count"] = 10,
     ["health"] = 6713011,
     ["scale"] = 1,
-    ["displayId"] = 107116,
+    ["displayId"] = 110964,
     ["creatureType"] = "Humanoid",
     ["level"] = 70,
     ["characteristics"] = {
@@ -1699,7 +1699,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["count"] = 16,
     ["health"] = 10740817,
     ["scale"] = 1,
-    ["displayId"] = 102868,
+    ["displayId"] = 110967,
     ["creatureType"] = "Humanoid",
     ["level"] = 71,
     ["characteristics"] = {
@@ -1739,7 +1739,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["count"] = 16,
     ["health"] = 10740817,
     ["scale"] = 1,
-    ["displayId"] = 102888,
+    ["displayId"] = 110969,
     ["creatureType"] = "Humanoid",
     ["level"] = 71,
     ["characteristics"] = {
@@ -1777,7 +1777,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["count"] = 40,
     ["health"] = 20139032,
     ["scale"] = 1,
-    ["displayId"] = 102943,
+    ["displayId"] = 110966,
     ["creatureType"] = "Humanoid",
     ["level"] = 71,
     ["characteristics"] = {

@@ -1368,7 +1368,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [22] = {
-    ["name"] = "Null Guardian",
+    ["name"] = "Dreadflail",
     ["id"] = 251024,
     ["count"] = 0,
     ["health"] = 556910,
@@ -1397,7 +1397,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [23] = {
-    ["name"] = "Wretched Supplicant",
+    ["name"] = "Grand Nullifier",
     ["id"] = 251031,
     ["count"] = 0,
     ["health"] = 326286,

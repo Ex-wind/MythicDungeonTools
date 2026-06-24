@@ -30,13 +30,13 @@ MDT.mapPOIs[dungeonIndex] = {};
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Lightgorged Lasher",
     ["id"] = 245345,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 125875,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -47,13 +47,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [2] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Lasher",
     ["id"] = 245410,
     ["count"] = 1,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 104473,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -64,12 +64,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [3] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Underbrush Stalker",
     ["id"] = 245339,
     ["count"] = 6,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 127942,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -81,12 +81,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [4] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Virid Grovekeeper",
     ["id"] = 245346,
     ["count"] = 20,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 127946,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -98,13 +98,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [5] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Sporeblight Belcher",
     ["id"] = 254850,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 126462,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -115,12 +115,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [6] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Radiant Spellsower",
     ["id"] = 245336,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 127945,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -132,13 +132,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [7] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Lightfeather Petalwing",
     ["id"] = 245484,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 136758,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -149,13 +149,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [8] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Thorny Saptor",
     ["id"] = 245473,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 122805,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -166,13 +166,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [9] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Spineshield Beetle",
     ["id"] = 245527,
     ["count"] = 1,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 110392,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -183,13 +183,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [10] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Leafy Grovecrawler",
     ["id"] = 245460,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 128068,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -200,13 +200,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [11] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Overgrown Hydra",
     ["id"] = 245513,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 142839,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -217,13 +217,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [12] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Luminous Thornmaw",
     ["id"] = 246871,
     ["count"] = 22,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 126929,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -234,13 +234,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [13] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Potatoad Matriarch",
     ["id"] = 249756,
     ["count"] = 30,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 136026,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {

@@ -30,12 +30,12 @@ MDT.mapPOIs[dungeonIndex] = {};
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Ritual Chieftain",
     ["id"] = 270306,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 146680,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -47,13 +47,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [2] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Bloodletter",
     ["id"] = 261552,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 146661,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -64,12 +64,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [3] = {
-    ["name"] = "Test Subject",
+    ["name"] = "High Evolutionist",
     ["id"] = 261557,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 146663,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -81,13 +81,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [4] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Hatchling",
     ["id"] = 261556,
-    ["count"] = 1,
+    ["count"] = 0,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 146662,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -98,13 +98,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [5] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Living Venom",
     ["id"] = 263112,
     ["count"] = 1,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 146677,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -115,13 +115,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [6] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Primal Serpent",
     ["id"] = 261560,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 146653,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -132,12 +132,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [7] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Ravenous Descendant",
     ["id"] = 261553,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 146654,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -149,12 +149,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [8] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Ula'tek's Chosen",
     ["id"] = 263109,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 142327,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -166,13 +166,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [9] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Ascendant Serpent",
     ["id"] = 261573,
     ["count"] = 30,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 146299,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -183,13 +183,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [10] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Twinfang Harrower",
     ["id"] = 261554,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 142386,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -200,13 +200,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [11] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Venom Leech",
     ["id"] = 261550,
     ["count"] = 1,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 146598,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -217,13 +217,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [12] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Rattling Writhe",
     ["id"] = 262011,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 146664,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {

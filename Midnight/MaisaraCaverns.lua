@@ -2888,7 +2888,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [25] = {
-    ["name"] = "Zil'jan",
+    ["name"] = "Zaib'yan",
     ["id"] = 253458,
     ["count"] = 7,
     ["health"] = 607538,

@@ -30,13 +30,13 @@ MDT.mapPOIs[dungeonIndex] = {};
 
 MDT.dungeonEnemies[dungeonIndex] = {
   [1] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Keen-Eyed Screecher",
     ["id"] = 245752,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 124212,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -47,13 +47,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [2] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Spirit of Hunger",
     ["id"] = 245855,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 26857,
+    ["creatureType"] = "Undead",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -64,12 +64,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [3] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Earthwhisper Tender",
     ["id"] = 241814,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 128080,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -81,12 +81,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [4] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Thornclaw Gatherer",
     ["id"] = 241813,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 141213,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -98,13 +98,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [5] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Territorial Matriarch",
     ["id"] = 241808,
     ["count"] = 8,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 14316,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -115,13 +115,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [6] = {
-    ["name"] = "Test Subject",
+    ["name"] = "The Looming Tempest",
     ["id"] = 250478,
     ["count"] = 30,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 138885,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -132,13 +132,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [7] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Frostfang",
     ["id"] = 241874,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 141223,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -149,13 +149,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [8] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Terra Rumbler",
     ["id"] = 241911,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 35201,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -166,13 +166,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [9] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Frigid Mauler",
     ["id"] = 241872,
     ["count"] = 9,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 141288,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -183,13 +183,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [10] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Glacial Revenant",
     ["id"] = 241876,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 103213,
+    ["creatureType"] = "Elemental",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -200,13 +200,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [11] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Avatar of Determination",
     ["id"] = 241869,
     ["count"] = 28,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 128095,
+    ["creatureType"] = "Undead",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -217,12 +217,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [12] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Ruthless Totemcaller",
     ["id"] = 245143,
     ["count"] = 5,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 129563,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -234,12 +234,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [13] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Stormbound Mystic",
     ["id"] = 245139,
     ["count"] = 7,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 129562,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -251,13 +251,13 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [14] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Grizzled Warbringer",
     ["id"] = 245146,
     ["count"] = 25,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
-    ["creatureType"] = "Humanoid",
+    ["displayId"] = 131630,
+    ["creatureType"] = "Beast",
     ["level"] = 90,
     ["clones"] = {
       [1] = {
@@ -268,12 +268,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [15] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Bonded Beasttamer",
     ["id"] = 245145,
     ["count"] = 6,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 129581,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {
@@ -285,12 +285,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [16] = {
-    ["name"] = "Test Subject",
+    ["name"] = "Xorvasc",
     ["id"] = 104970,
     ["count"] = 35,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 121037,
+    ["displayId"] = 1014,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
     ["clones"] = {

@@ -251,7 +251,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["scale"] = 1.2,
     ["displayId"] = 136939,
     ["creatureType"] = "Humanoid",
-    ["level"] = 90,
+    ["level"] = 0,
     ["spells"] = {
       [1216300] = {
       },

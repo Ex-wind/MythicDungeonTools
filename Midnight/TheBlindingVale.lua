@@ -40,6 +40,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1238158] = {
+        ["interruptible"] = true,
       },
       [1238173] = {
       },
@@ -63,6 +64,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1238084] = {
+        ["magic"] = true,
       },
     },
     ["clones"] = {
@@ -88,6 +90,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1238071] = {
       },
       [1238076] = {
+        ["bleed"] = true,
       },
     },
     ["clones"] = {
@@ -159,6 +162,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1238063] = {
+        ["interruptible"] = true,
       },
     },
     ["clones"] = {
@@ -180,6 +184,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1238294] = {
+        ["interruptible"] = true,
       },
     },
     ["clones"] = {
@@ -224,6 +229,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1238581] = {
+        ["magic"] = true,
       },
       [1238588] = {
       },
@@ -249,6 +255,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1238232] = {
+        ["interruptible"] = true,
       },
     },
     ["clones"] = {
@@ -349,6 +356,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1235574] = {
       },
       [1235616] = {
+        ["interruptible"] = true,
       },
       [1235828] = {
       },
@@ -386,6 +394,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1235642] = {
       },
       [1235865] = {
+        ["bleed"] = true,
       },
       [1253028] = {
       },
@@ -409,6 +418,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 92,
     ["spells"] = {
       [1239821] = {
+        ["interruptible"] = true,
       },
       [1239824] = {
       },
@@ -429,6 +439,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1240257] = {
       },
       [1241058] = {
+        ["bleed"] = true,
       },
       [1242180] = {
       },
@@ -472,6 +483,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1247685] = {
       },
       [1247746] = {
+        ["bleed"] = true,
       },
       [1253690] = {
       },
@@ -511,6 +523,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1237093] = {
       },
       [1237267] = {
+        ["bleed"] = true,
       },
       [1237330] = {
       },

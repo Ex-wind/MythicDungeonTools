@@ -136,6 +136,8 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1250043] = {
+        ["magic"] = true,
+        ["interruptible"] = true,
       },
     },
     ["clones"] = {
@@ -182,6 +184,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1250189] = {
+        ["interruptible"] = true,
       },
       [1250191] = {
       },
@@ -232,6 +235,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [365127] = {
       },
       [1254826] = {
+        ["enrage"] = true,
       },
     },
     ["clones"] = {
@@ -311,6 +315,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1228162] = {
       },
       [1228176] = {
+        ["interruptible"] = true,
       },
     },
     ["clones"] = {
@@ -522,6 +527,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1249661] = {
+        ["enrage"] = true,
       },
     },
     ["clones"] = {
@@ -618,6 +624,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1249621] = {
+        ["magic"] = true,
       },
     },
     ["clones"] = {
@@ -686,6 +693,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1233398] = {
+        ["interruptible"] = true,
       },
     },
     ["clones"] = {
@@ -732,12 +740,14 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 91,
     ["spells"] = {
       [58984] = {
+        ["interruptible"] = true,
       },
       [1233472] = {
       },
       [1233485] = {
       },
       [1289258] = {
+        ["poison"] = true,
       },
       [1289265] = {
       },
@@ -852,6 +862,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1239831] = {
       },
       [1239855] = {
+        ["magic"] = true,
       },
       [1239856] = {
       },
@@ -922,6 +933,8 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["level"] = 90,
     ["spells"] = {
       [1250719] = {
+        ["magic"] = true,
+        ["interruptible"] = true,
       },
     },
     ["clones"] = {
@@ -994,6 +1007,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       [1262497] = {
       },
       [1263971] = {
+        ["poison"] = true,
       },
     },
     ["clones"] = {

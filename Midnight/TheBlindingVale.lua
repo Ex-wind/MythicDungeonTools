@@ -38,6 +38,10 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 125875,
     ["creatureType"] = "Elemental",
     ["level"] = 90,
+        ["spells"] = {
+            [1238158] = {},
+            [1238173] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 200,
@@ -55,6 +59,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 104473,
     ["creatureType"] = "Elemental",
     ["level"] = 90,
+        ["spells"] = {
+            [1238084] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 220,
@@ -72,6 +79,11 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 127942,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
+        ["spells"] = {
+            [1238066] = {},
+            [1238071] = {},
+            [1238076] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 240,
@@ -88,7 +100,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["scale"] = 1,
     ["displayId"] = 127946,
     ["creatureType"] = "Humanoid",
-    ["level"] = 90,
+    ["level"] = 91,
+        ["spells"] = {
+            [1237855] = {},
+            [1237858] = {},
+            [1255205] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 260,
@@ -105,7 +122,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["scale"] = 1,
     ["displayId"] = 126462,
     ["creatureType"] = "Elemental",
-    ["level"] = 90,
+    ["level"] = 91,
+        ["spells"] = {
+            [1263628] = {},
+            [1263636] = {},
+            [1271385] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 280,
@@ -123,6 +145,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 127945,
     ["creatureType"] = "Humanoid",
     ["level"] = 90,
+        ["spells"] = {
+            [1238063] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 300,
@@ -140,6 +165,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 136758,
     ["creatureType"] = "Elemental",
     ["level"] = 90,
+        ["spells"] = {
+            [1238294] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 320,
@@ -157,6 +185,10 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 122805,
     ["creatureType"] = "Elemental",
     ["level"] = 90,
+        ["spells"] = {
+            [1238262] = {},
+            [1238263] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 340,
@@ -174,6 +206,11 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 110392,
     ["creatureType"] = "Beast",
     ["level"] = 90,
+        ["spells"] = {
+            [1238581] = {},
+            [1238588] = {},
+            [1242200] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 360,
@@ -191,6 +228,9 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["displayId"] = 128068,
     ["creatureType"] = "Elemental",
     ["level"] = 90,
+        ["spells"] = {
+            [1238232] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 380,
@@ -207,7 +247,12 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["scale"] = 1,
     ["displayId"] = 142839,
     ["creatureType"] = "Elemental",
-    ["level"] = 90,
+    ["level"] = 91,
+        ["spells"] = {
+            [1238368] = {},
+            [1238463] = {},
+            [1238642] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 400,
@@ -224,7 +269,11 @@ MDT.dungeonEnemies[dungeonIndex] = {
     ["scale"] = 1,
     ["displayId"] = 126929,
     ["creatureType"] = "Elemental",
-    ["level"] = 90,
+    ["level"] = 91,
+        ["spells"] = {
+            [1242135] = {},
+            [1242138] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 200,
@@ -234,14 +283,20 @@ MDT.dungeonEnemies[dungeonIndex] = {
     },
   },
   [13] = {
-    ["name"] = "Potatoad Matriarch",
-    ["id"] = 249756,
+    ["name"] = "Meittik",
+    ["id"] = 243028,
     ["count"] = 30,
     ["health"] = 10000,
     ["scale"] = 1,
-    ["displayId"] = 136026,
-    ["creatureType"] = "Elemental",
-    ["level"] = 90,
+    ["displayId"] = 129588,
+    ["creatureType"] = "Humanoid",
+    ["level"] = 92,
+        ["spells"] = {
+            [1234753] = {},
+            [1234773] = {},
+            [1234802] = {},
+            [1253028] = {},
+        },
     ["clones"] = {
       [1] = {
         ["x"] = 220,
@@ -250,4 +305,150 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
     },
   },
+  [14] = {
+    ["name"] = "Kezkitt",
+    ["id"] = 243029,
+    ["count"] = 30,
+    ["health"] = 10000,
+    ["scale"] = 1,
+    ["displayId"] = 136026,
+    ["creatureType"] = "Elemental",
+    ["level"] = 92,
+        ["spells"] = {
+            [1235564] = {},
+            [1235574] = {},
+            [1235616] = {},
+            [1235828] = {},
+            [1253028] = {},
+        },
+    ["clones"] = {
+      [1] = {
+        ["x"] = 220,
+        ["y"] = -220,
+        ["sublevel"] = 1,
+      },
+    },
+  },
+  [15] = {
+    ["name"] = "Lekshi",
+    ["id"] = 243030,
+    ["count"] = 30,
+    ["health"] = 10000,
+    ["scale"] = 1,
+    ["displayId"] = 136026,
+    ["creatureType"] = "Elemental",
+    ["level"] = 92,
+        ["spells"] = {
+            [1234850] = {},
+            [1234858] = {},
+            [1235542] = {},
+            [1235546] = {},
+            [1235640] = {},
+            [1235642] = {},
+            [1235865] = {},
+            [1253028] = {},
+        },
+    ["clones"] = {
+      [1] = {
+        ["x"] = 220,
+        ["y"] = -220,
+        ["sublevel"] = 1,
+      },
+    },
+  },
+  [16] = {
+    ["name"] = "Lightwarden Ruia",
+    ["id"] = 245912,
+    ["count"] = 30,
+    ["health"] = 10000,
+    ["scale"] = 1,
+    ["displayId"] = 129856,
+    ["creatureType"] = "Humanoid",
+    ["level"] = 92,
+        ["spells"] = {
+            [1239821] = {},
+            [1239824] = {},
+            [1239825] = {},
+            [1239882] = {},
+            [1239885] = {},
+            [1239919] = {},
+            [1240100] = {},
+            [1240152] = {},
+            [1240210] = {},
+            [1240257] = {},
+            [1241058] = {},
+            [1242180] = {},
+            [1257094] = {},
+            [1272265] = {},
+        },
+    ["clones"] = {
+      [1] = {
+        ["x"] = 220,
+        ["y"] = -220,
+        ["sublevel"] = 1,
+      },
+    },
+  },
+  [17] = {
+    ["name"] = "Ziekket",
+    ["id"] = 247676,
+    ["count"] = 30,
+    ["health"] = 10000,
+    ["scale"] = 1,
+    ["displayId"] = 136619,
+    ["creatureType"] = "Elemental",
+    ["level"] = 92,
+        ["spells"] = {
+            [1246372] = {},
+            [1246527] = {},
+            [1246607] = {},
+            [1246751] = {},
+            [1246753] = {},
+            [1247377] = {},
+            [1247644] = {},
+            [1247685] = {},
+            [1247746] = {},
+            [1253690] = {},
+            [1253694] = {},
+        },
+    ["clones"] = {
+      [1] = {
+        ["x"] = 220,
+        ["y"] = -220,
+        ["sublevel"] = 1,
+      },
+    },
+  },
+  [18] = {
+    ["name"] = "Ikuzz the Light Hunter",
+    ["id"] = 244887,
+    ["count"] = 30,
+    ["health"] = 10000,
+    ["scale"] = 1,
+    ["displayId"] = 129424,
+    ["creatureType"] = "Elemental",
+    ["level"] = 92,
+        ["spells"] = {
+            [1236709] = {},
+            [1236731] = {},
+            [1236746] = {},
+            [1237073] = {},
+            [1237091] = {},
+            [1237092] = {},
+            [1237093] = {},
+            [1237267] = {},
+            [1237330] = {},
+            [1253410] = {},
+            [1263420] = {},
+            [1272290] = {},
+        },
+    ["clones"] = {
+      [1] = {
+        ["x"] = 220,
+        ["y"] = -220,
+        ["sublevel"] = 1,
+      },
+    },
+  },
+
 };

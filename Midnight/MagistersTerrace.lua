@@ -1869,6 +1869,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
       },
       [1255187] = {
         ["magic"] = true,
+        ["interruptible"] = true,
       },
     },
     ["clones"] = {

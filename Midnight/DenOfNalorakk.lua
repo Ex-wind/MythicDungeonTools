@@ -24,7 +24,7 @@ MDT.dungeonSubLevels[dungeonIndex] = {
   [1] = L["DenOfNalorakk"],
 }
 
-MDT.dungeonTotalCount[dungeonIndex] = { normal = 758 }
+MDT.dungeonTotalCount[dungeonIndex] = { normal = 729 }
 
 MDT.mapPOIs[dungeonIndex] = {};
 
@@ -117,7 +117,7 @@ MDT.dungeonEnemies[dungeonIndex] = {
   [6] = {
     ["name"] = "The Looming Tempest",
     ["id"] = 250478,
-    ["count"] = 30,
+    ["count"] = 50,
     ["health"] = 10000,
     ["scale"] = 1,
     ["displayId"] = 138885,
